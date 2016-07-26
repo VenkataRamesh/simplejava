@@ -46,7 +46,7 @@ public class EmitLogTopic {
 
   private static String getMessage(String[] strings){
     if (strings.length < 2)
-    	    return "Hello World!";
+    	    return "Hello Muchacho!";
     return joinStrings(strings, " ", 1);
   }
 
